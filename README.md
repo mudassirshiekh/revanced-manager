@@ -66,6 +66,7 @@
 Application to use ReVanced on Android
 
 ## ❓ About
+## By Mudassir Alam
 
 ReVanced Manager is an application that uses [ReVanced Patcher](https://github.com/revanced/revanced-patcher) to patch Android apps.
 
